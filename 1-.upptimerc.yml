@@ -1,0 +1,25 @@
+owner: gopanihitansh5-collab
+repo: upptime
+
+sites:
+  - name: NightFleet
+    url: https://nightfleet.vercel.app/
+  - name: Tollbooth
+    url: https://tollbooth-tau.vercel.app/
+
+assignees:
+  - gopanihitansh5-collab
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "0 23 * * *"
+  graphs: "0 0 * * *"
+  summary: "0 0 * * *"
+  staticSite: "0 1 * * *"
+
+status-website:
+  baseUrl: /upptime
+  name: Status
+  navbar:
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
